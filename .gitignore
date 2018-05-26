@@ -1,0 +1,4 @@
+slackbot_settings.py
+.DS_Store
+/__pycache__
+/plugins/__pycache__
